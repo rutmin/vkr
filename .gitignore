@@ -1,0 +1,7 @@
+*.idea/
+configs/
+my*/
+routes/
+venv/
+versions/
+eddited_script.py
