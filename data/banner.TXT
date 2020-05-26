@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 * * * * * * * * * * * * * * * * * *
 * This is test banner for my vkr  *
 * Vladimir Ilych Lenin is Alive!  *
+=======
+* * * * * * * * * * * * * * * * * *
+* This is test banner for my vkr  *
+* Vladimir Ilych Lenin is Alive!  *
+>>>>>>> f20de217c5afcf3d21aca26a06ebd309720f292c
 * * * * * * * * * * * * * * * * * *
